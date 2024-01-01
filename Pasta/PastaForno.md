@@ -4,14 +4,22 @@
 <ul>
   <li>350 g de pasta (aprox) – Pasta grande, macarrones o tortiglioni</li>
   <li>1 litro y medio de passata de tomate (passata, no tomate frito)</li>
-  <li>Albaca al gusto</li>
+  <li>Albaca, sal y pimienta al gusto</li>
   <li>1 cebolla,</li>
   <li>1 mozzarella </li>
   <li>Queso rallado (preferiblemente parmesano, pero al gusto)</li>
 </ul>
 
 ## Preparación de la salsa:
-En una cazuela, calienta un poco de aceite. Corta la cebolla en cuatro trozos grandes y añádela al aceite caliente para que se dore ligeramente. Agrega la salsa de tomate, la albahaca, la sal y la pimienta al gusto. Para ajustar la consistencia, añade agua a la botella de salsa y viértela en la cazuela. El truco está en mantener la salsa líquida para cocinar la pasta en ella. Deja que la salsa se cocine a fuego lento. Al finalizar, retira la cebolla, que puedes triturar para convertirla en una especie de paté que se pueda consumir.
+<p>En una cazuela, calienta un poco de aceite.</p>
+
+<p>Corta la cebolla en cuatro trozos grandes y añádela al aceite caliente para que se dore ligeramente.</p>
+
+<p>Agrega la salsa de tomate, la albaca, la sal y la pimienta al gusto.</p>
+
+<p>Para ajustar la consistencia, añade agua a la botella de salsa y viértela en la cazuela. El truco está en mantener la salsa líquida para cocinar la pasta en ella. Deja que la salsa se cocine a fuego lento.</p>
+
+<p>Al finalizar, retira la cebolla, que puedes triturar para convertirla en una especie de paté que se pueda consumir.</p>
 
 ## Preparación de la pasta:
 En una olla grande, lleva a ebullición agua con sal. Cuando hierva, añade la pasta y cocina durante la mitad del tiempo indicado en el paquete (por ejemplo, si indica 10 minutos, cocínala durante 5 minutos). Mientras tanto, corta la mozzarella en pequeños trozos. Escurre la pasta y mézclala con la salsa de tomate para que se impregne de color y sabor.
