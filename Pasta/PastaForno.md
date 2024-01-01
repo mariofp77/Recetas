@@ -9,3 +9,16 @@
   <li>1 mozzarella </li>
   <li>Queso rallado (yo prefiero parmesano pero el que más te guste a ti)</li>
 </ul>
+
+## Preparación de la salsa:
+En una cazuela, calienta un poco de aceite. Corta la cebolla en cuatro trozos grandes y añádela al aceite caliente para que se dore ligeramente. Agrega la salsa de tomate, la albahaca, la sal y la pimienta al gusto. Para ajustar la consistencia, añade agua a la botella de salsa y viértela en la cazuela. El truco está en mantener la salsa líquida para cocinar la pasta en ella. Deja que la salsa se cocine a fuego lento. Al finalizar, retira la cebolla, que puedes triturar para convertirla en una especie de paté que se pueda consumir.
+
+## Preparación de la pasta:
+En una olla grande, lleva a ebullición agua con sal. Cuando hierva, añade la pasta y cocina durante la mitad del tiempo indicado en el paquete (por ejemplo, si indica 10 minutos, cocínala durante 5 minutos). Mientras tanto, corta la mozzarella en pequeños trozos. Escurre la pasta y mézclala con la salsa de tomate para que se impregne de color y sabor.
+
+## Ensamblaje y horneado:
+<p>Precalienta el horno a 200 grados Celsius, con ventilación.  Toma una bandeja para horno y comienza a montar la pasta: empieza con una capa de salsa que cubra uniformemente el fondo de la bandeja. Luego añade una capa de pasta, queso rallado y trozos de mozzarella.</p>
+
+<p>Continúa alternando capas hasta llenar la bandeja (idealmente, dos capas). En la última capa, vierte la salsa restante y cubre generosamente con queso rallado.  Hornea durante aproximadamente 30 minutos (verifica visualmente para asegurarte de que esté listo).</p>
+
+<p>Si prefieres un toque gratinado en la parte superior, enciende el grill durante los últimos minutos de cocción para conseguir ese efecto.</p>
