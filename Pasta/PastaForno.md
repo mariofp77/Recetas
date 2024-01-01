@@ -31,8 +31,14 @@
 <p>Escurre la pasta y mézclala con la salsa de tomate para que se impregne de color y sabor.</p>
 
 ## Ensamblaje y horneado:
-<p>Precalienta el horno a 200 grados Celsius, con ventilación.  Toma una bandeja para horno y comienza a montar la pasta: empieza con una capa de salsa que cubra uniformemente el fondo de la bandeja. Luego añade una capa de pasta, queso rallado y trozos de mozzarella.</p>
+<p>Precalienta el horno a 200 grados con ventilación.</p>
 
-<p>Continúa alternando capas hasta llenar la bandeja (idealmente, dos capas). En la última capa, vierte la salsa restante y cubre generosamente con queso rallado.  Hornea durante aproximadamente 30 minutos (verifica visualmente para asegurarte de que esté listo).</p>
+<p>Toma una bandeja para horno y comienza a montar la pasta: empieza con una capa de salsa que cubra uniformemente el fondo de la bandeja, luego añade una capa de pasta, queso rallado y trozos de mozzarella.</p>
+
+<p>Continúa alternando capas hasta llenar la bandeja (idealmente, dos capas). En la última capa, vierte la salsa restante y cubre generosamente con queso rallado.</p>
+
+<p>Hornea durante aproximadamente 30 minutos (verifica visualmente para asegurarte de que esté listo).</p>
 
 <p>Si prefieres un toque gratinado en la parte superior, enciende el grill durante los últimos minutos de cocción para conseguir ese efecto.</p>
+
+_Esta es una receta de mi amigo Fabio._
