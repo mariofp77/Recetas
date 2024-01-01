@@ -40,14 +40,5 @@
 <p>Hornea durante aproximadamente 30 minutos (verifica visualmente para asegurarte de que esté listo).</p>
 
 <p>Si prefieres un toque gratinado en la parte superior, enciende el grill durante los últimos minutos de cocción para conseguir ese efecto.</p>
-
-
-
-
-
-
-
-
-
-
+<br><br><br><br><br><br><br><br>
 _Esta es una receta de mi amigo Fabio._
