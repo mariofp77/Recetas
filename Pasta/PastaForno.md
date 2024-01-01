@@ -22,7 +22,13 @@
 <p>Al finalizar, retira la cebolla, que puedes triturar para convertirla en una especie de paté que se pueda consumir.</p>
 
 ## Preparación de la pasta:
-En una olla grande, lleva a ebullición agua con sal. Cuando hierva, añade la pasta y cocina durante la mitad del tiempo indicado en el paquete (por ejemplo, si indica 10 minutos, cocínala durante 5 minutos). Mientras tanto, corta la mozzarella en pequeños trozos. Escurre la pasta y mézclala con la salsa de tomate para que se impregne de color y sabor.
+<p>En una olla grande, lleva a ebullición agua con sal.</p>
+
+<p>Cuando hierva, añade la pasta y cocina durante la mitad del tiempo indicado en el paquete (por ejemplo, si indica 10 minutos, cocínala durante 5 minutos).</p>
+
+<p>Mientras tanto, corta la mozzarella en pequeños trozos.</p>
+
+<p>Escurre la pasta y mézclala con la salsa de tomate para que se impregne de color y sabor.</p>
 
 ## Ensamblaje y horneado:
 <p>Precalienta el horno a 200 grados Celsius, con ventilación.  Toma una bandeja para horno y comienza a montar la pasta: empieza con una capa de salsa que cubra uniformemente el fondo de la bandeja. Luego añade una capa de pasta, queso rallado y trozos de mozzarella.</p>
