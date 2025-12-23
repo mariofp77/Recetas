@@ -5,7 +5,7 @@
   <li>350 g de pasta (aprox) – Pasta grande, macarrones o tortiglioni</li>
   <li>1 litro y medio de passata de tomate (passata, no tomate frito)</li>
   <li>Albaca, sal y pimienta al gusto</li>
-  <li>1 cebolla,</li>
+  <li>1 cebolla</li>
   <li>1 mozzarella </li>
   <li>Queso rallado (preferiblemente parmesano, pero al gusto)</li>
 </ul>
