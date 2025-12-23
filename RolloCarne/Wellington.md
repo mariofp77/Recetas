@@ -12,11 +12,6 @@
   <li>Huevo para barnizar (si lo usas)</li>
 </ul>
 
-## Preparación de la salsa:
-<p>En una cazuela, calienta un poco de aceite.</p>
-
-<p>Corta la cebolla en cuatro trozos grandes y añádela al aceite caliente para que se dore ligeramente.</p>
-
 ## Preparación del relleno:
 <p>Saltea cebolla, ajo, champiñones y espinacas con un poco de aceite de oliva, sal y las hierbas.</p>
 
